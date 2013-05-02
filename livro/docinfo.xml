@@ -32,18 +32,16 @@
       </authorblurb>
     </author>
   </authorgroup>
-  
 
   <othercredit>
-      <firstname>Eduardo</firstname>
-      <surname>Medeiros</surname>
-      <othername>Santana</othername>
+    <firstname>Eduardo</firstname>
+    <surname>Santana</surname>
     <contrib>Editor</contrib>
   </othercredit>
 
   <othercredit>
-      <firstname>Camyle</firstname>
-      <surname>Araújo</surname>
+    <firstname>Camyle</firstname>
+    <surname>Araújo</surname>
     <contrib>Revisora</contrib>
   </othercredit>
 
