@@ -3,11 +3,11 @@
   rudder-doc-docinfo.xml
   DocBook document information file for rudder-doc.txt.
 -->
-  <edition>v1.0.0</edition>
+  <edition>v1.0.1</edition>
 
   <revhistory>
     <revision>
-      <revnumber>v1.0.0</revnumber>
+      <revnumber>v1.0.1</revnumber>
       <date>Agosto de 2013</date>
       <authorinitials>Anderson Retondar</authorinitials>
       <revremark>
