@@ -1,79 +1,76 @@
+<edition>{edition}</edition>
 
-<!--
-  rudder-doc-docinfo.xml
-  DocBook document information file for rudder-doc.txt.
--->
-  <edition>v1.0.4</edition>
+<revhistory>
 
-  <revhistory>
-
-    <revision>
-      <revnumber>v1.0.4</revnumber>
-      <date>Agosto de 2013</date>
-      <authorinitials>Eduardo</authorinitials>
-      <revremark>
-        Remoção da página do copyright.
-      </revremark>
-    </revision>
+  <revision>
+    <revnumber>v1.0.5</revnumber>
+    <date>24/9/2014</date>
+    <authorinitials>Eduardo</authorinitials>
+    <revremark>
+<ulink url="{gitrepo}/issues/5">Correção ortográfica, pág. 20;</ulink>
+<ulink url="{gitrepo}/issues/8">Solicitando feedback ao final de cada capítulo;</ulink>
+<ulink url="{gitrepo}/issues/9">Adição de links no histórico de revisão;</ulink>
+    </revremark>
+  </revision>
 
 
-    <revision>
-      <revnumber>v1.0.3</revnumber>
-      <date>Agosto de 2013</date>
-      <authorinitials>Eduardo</authorinitials>
-      <revremark>
-        Inclusão do ISBN.
-      </revremark>
-    </revision>
-
-  
-    <revision>
-      <revnumber>v1.0.2</revnumber>
-      <date>Agosto de 2013</date>
-      <authorinitials>Eduardo</authorinitials>
-      <revremark>
-        Melhoria nas imagens para impressão. Inclusão de releases no prefácio.
-      </revremark>
-    </revision>
+  <revision>
+    <revnumber>v1.0.3</revnumber>
+    <date>Agosto de 2013</date>
+    <authorinitials>Eduardo</authorinitials>
+    <revremark>
+      Inclusão do ISBN.
+    </revremark>
+  </revision>
 
 
-    <revision>
-      <revnumber>v1.0.1</revnumber>
-      <date>Agosto de 2013</date>
-      <authorinitials>Anderson Retondar</authorinitials>
-      <revremark>
-        Primeira versão do livro.
-      </revremark>
-    </revision>
-
-  </revhistory>
+  <revision>
+    <revnumber>v1.0.2</revnumber>
+    <date>Agosto de 2013</date>
+    <authorinitials>Eduardo</authorinitials>
+    <revremark>
+      Melhoria nas imagens para impressão. Inclusão de releases no prefácio.
+    </revremark>
+  </revision>
 
 
-  <authorgroup>
-    <author>
-      <firstname>Anderson</firstname>
-      <surname>Moebus Retondar</surname>
-      <affiliation>
-        <jobtitle>Professor</jobtitle>
-        <orgname>Universidade Federal da Paraíba</orgname>
-      </affiliation>
-      <authorblurb>
-        <para>
-          Principal contribuidor do livro.
-        </para>
-      </authorblurb>
-    </author>
-  </authorgroup>
+  <revision>
+    <revnumber>v1.0.1</revnumber>
+    <date>Agosto de 2013</date>
+    <authorinitials>Anderson Retondar</authorinitials>
+    <revremark>
+      Primeira versão do livro.
+    </revremark>
+  </revision>
 
-  <othercredit>
-    <firstname>Eduardo</firstname>
-    <surname>Santana</surname>
-    <contrib>Editor</contrib>
-  </othercredit>
+</revhistory>
 
-  <othercredit>
-    <firstname>Camyle</firstname>
-    <surname>Araújo</surname>
-    <contrib>Revisora</contrib>
-  </othercredit>
+
+<authorgroup>
+  <author>
+    <firstname>Anderson</firstname>
+    <surname>Moebus Retondar</surname>
+    <affiliation>
+      <jobtitle>Professor</jobtitle>
+      <orgname>Universidade Federal da Paraíba</orgname>
+    </affiliation>
+    <authorblurb>
+      <para>
+        Principal contribuidor do livro.
+      </para>
+    </authorblurb>
+  </author>
+</authorgroup>
+
+<othercredit>
+  <firstname>Eduardo</firstname>
+  <surname>Santana</surname>
+  <contrib>Editor</contrib>
+</othercredit>
+
+<othercredit>
+  <firstname>Camyle</firstname>
+  <surname>Araújo</surname>
+  <contrib>Revisora</contrib>
+</othercredit>
 
